@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eneniozo.github.io/Dfg/sitemap_index.txt
+Sitemap: https://eneniozo.github.io/pbv/sitemap_index.txt
+Sitemap: https://eneniozo.github.io/xou/sitemap_index.txt
+Sitemap: https://eneniozo.github.io/xua/sitemap_index.txt
